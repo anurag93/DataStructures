@@ -12,6 +12,7 @@ bst.insert(-3)
 bst.insert(10)
 bst.insert(11)
 bst.insert(22)
+bst.insert(254)
 
 bst.traverseInOrder()
 
