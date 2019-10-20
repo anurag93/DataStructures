@@ -10,12 +10,9 @@ bst.insert(12)
 bst.insert(-2)
 bst.insert(-3)
 bst.insert(10)
-bst.insert(11)
+bst.insert(8)
+bst.insert(15)
 bst.insert(22)
-bst.insert(254)
-
-bst.traverseInOrder()
-
-bst.remove(11)
+#bst.remove(12)
 
 bst.traverseInOrder()
